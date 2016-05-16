@@ -1,0 +1,4 @@
+a q1 -> a q2 R
+b q1 -> b q2 R
+a q2 -> 0 no STOP
+b q2 -> 0 no STOP
